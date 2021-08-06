@@ -1,7 +1,7 @@
 # tennis-flights
 
 
-####Description
+##Description
 
 Tennis Flight app helps to keep players informed on the tennis flight schedules.   Quickly find who is playing where and when.
 
@@ -10,6 +10,6 @@ Tennis Flight app helps to keep players informed on the tennis flight schedules.
 ![Check who is playing on which court.](https://user-images.githubusercontent.com/42822368/128570400-70796458-2a23-4bc1-8fcb-ac6d0332c526.png)
 
 
-####Support
+##Support
 
 Email me at tennis.flights@gmail.com
